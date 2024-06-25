@@ -87,7 +87,7 @@
   <li>Important vector identities, including the gradient, divergence, curl, and Laplacian in different coordinate systems.</li>
 </ul>
 <br><br>
-<h2 align="center">Conclusion:</h2>
+<h2 align="center">Conclusion</h2>
 <p>Vector calculus offers powerful tools for understanding and analyzing physical phenomena in multiple dimensions. Through concepts like differentiation, divergence, and curl, we can model and predict behaviors ranging from fluid flow to electromagnetic fields. These principles find wide application across scientific disciplines, enabling us to unravel the mysteries of the universe and engineer innovative solutions to complex challenges.</p>
 <hr/>
 </body>
