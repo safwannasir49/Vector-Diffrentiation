@@ -4,6 +4,28 @@
 <br>
 </head>
 <body>
+  <br><br><br>
+  <div>
+  <h2 align="center">Syllabus Covered</h2>
+<h3>Vector Differentiation</h3>
+<ul>
+    <li><strong>Vector Functions of a Single Variable</strong></li>
+    <li><strong>Derivative of a Vector Function</strong></li>
+    <li><strong>Geometrical Interpretation</strong></li>
+    <li><strong>Velocity and Acceleration</strong></li>
+</ul>
+<h3>Scalar and Vector Fields</h3>
+<ul>
+    <li><strong>Gradient of a Scalar Field</strong></li>
+    <li><strong>Directional Derivative</strong></li>
+    <li><strong>Divergence of a Vector Field</strong></li>
+    <li><strong>Solenoidal Vector</strong></li>
+    <li><strong>Curl of a Vector Field</strong></li>
+    <li><strong>Irrotational Vector</strong></li>
+    <li><strong>Laplacian Operator</strong></li>
+    <li><strong>Vector Identities</strong></li>
+</ul>
+  </div>
 <h1 align="center">Vector Functions</h1>
   <br><br>
 <h3>Vector Functions of a single variable</h3>
