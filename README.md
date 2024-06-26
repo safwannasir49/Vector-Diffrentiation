@@ -1,11 +1,12 @@
 <hr/>
-<img src="Images/vector.png">
+<img src="Vector Diffrentiation/1.png">
 <hr/>
 <br>
-<h1 align="center">Vector Differentiation</h1>
 </head>
 <body>
-<h3>Vector Functions of a Single Variable:</h3>
+<h1 align="center">Vector Functions</h1>
+  <br><br>
+<h3>Vector Functions of a single variable</h3>
 <ul>
   <li>Introduction to vector-valued functions where the output is a vector rather than a scalar.</li>
   <li>Examples illustrating vector functions in one variable.</li>
